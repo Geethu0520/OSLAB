@@ -1,8 +1,8 @@
 # program file
 ![program_file](producer-consumer.py)
 
-# sample output
-![sample_output](producer-consumer_output.png)
+# program image
+![program_image](producer-consumer_program.png)
 
-# tested output
-![tested_output](producer-consumer_program.png)
+# program output
+![program_output](producer-consumer_output.png)
